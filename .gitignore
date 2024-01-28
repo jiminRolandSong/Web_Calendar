@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Web Calendar/*
+!/Web Calendar/task/
+/Web Calendar/task/*
+!/Web Calendar/task/app.py
+!/Web Calendar/task/events.db
